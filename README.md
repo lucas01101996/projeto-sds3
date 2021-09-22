@@ -4,7 +4,7 @@
 
 https://dsvendas-lucasferraz.netlify.app/
 
-DsVendas é uma aplicação full stack construída durante a 4ª edição da **Semana DevSuperior** (#sds4), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DsVendas é uma aplicação full stack construída durante a 4ª edição da **Semana DevSuperior** (#sds4), evento organizado pela [DevSuperior](https://devsuperior.com.br/ "Site da DevSuperior").
 
 A aplicação consiste em um dashboard de vendas que faz relatórios na forma de gráficos, se baseando em uma tabela que mostra a quantidade total de vendas e a quantidade de négocios fechados de um vendendor, todos os dados fornecidos pelo backend.
 
